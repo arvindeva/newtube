@@ -3,7 +3,6 @@
 .video-preview {
   display: grid;
   grid: 118px auto / 210px;
-
   &.horizontal {
     grid: auto / 210px auto;
     grid-column-gap: 4px;

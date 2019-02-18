@@ -26,7 +26,7 @@ exports[`VideoPreview renders horizontally 1`] = `
     <div
       className="semi-bold show-max-two-lines"
     >
-      Video Title
+      This Will Be The Video Title Of The Preview
     </div>
     <div
       className="video-preview-metadata-container"
@@ -72,7 +72,7 @@ exports[`VideoPreview renders vertically 1`] = `
     <div
       className="semi-bold show-max-two-lines"
     >
-      Video Title
+      This Will Be The Video Title Of The Preview
     </div>
     <div
       className="video-preview-metadata-container"
