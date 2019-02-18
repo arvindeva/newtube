@@ -8,10 +8,14 @@ $sidebar-hover-color: #ebebeb;
   overflow-y: auto;
 
   .sidebar-item:hover {
+    background: $sidebar-hover-color;
+  }
+  .subscription:hover {
     background: #ebebeb;
+    cursor: pointer;
   }
 }
 
-.ui.vertical.side-nav.menu {
-  width: rem;
+.side-nav.ui.vertical.menu {
+  width: $sidebar-left-width;
 }
