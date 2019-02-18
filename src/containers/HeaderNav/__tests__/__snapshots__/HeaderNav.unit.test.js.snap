@@ -29,7 +29,7 @@ exports[`renders HeaderNav 1`] = `
         <FormField>
           <Input
             action="Go"
-            placeholder="search"
+            placeholder="Search"
             size="small"
             type="text"
           />

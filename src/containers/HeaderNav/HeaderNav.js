@@ -14,7 +14,7 @@ export class HeaderNav extends React.Component {
           <Menu.Item className="search-input">
             <Form>
               <Form.Field>
-                <Input placeholder="search" size="small" action="Go" />
+                <Input placeholder="Search" size="small" action="Go" />
               </Form.Field>
             </Form>
           </Menu.Item>
